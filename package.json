@@ -2,8 +2,9 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "BD-1.4/CW.js",
   "scripts": {
+    "start": "node BD-1.4/CW.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
